@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satyammutha
 - 👀 I’m interested in everything that challenges me.
 - 🌱 I’m currently learning Game development.
-- 📫 /satyammutha
+- 📫 /satyammutha@gmail.com
 
 <!---
 satyammutha/satyammutha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
