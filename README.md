@@ -1,6 +1,6 @@
-- 👋 Hi, My name is @satyammutha
+- 👋 Hi, My name is Satyam
 - 👀 I’m interested in everything that challenges me.
-- 🌱 I’m currently learning Automation Testing.
+- 🌱 I’m currently learning Backend Development.
 - 📫 /satyammutha@gmail.com
 
 <!---
